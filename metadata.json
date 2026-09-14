@@ -1,0 +1,6 @@
+{
+  "name": "SuccessFactors Learning Center",
+  "description": "Enterprise Employee Training and Compliance Management Center featuring curriculum tracking, course player with knowledge checks, manager team compliance, and certification transcripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
